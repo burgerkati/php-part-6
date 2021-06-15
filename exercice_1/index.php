@@ -1,7 +1,3 @@
-<!-- Créez un formulaire avec les champs "nom" et "prénom".
-À l'envoie du formulaire sur une autre page,
-affichez les informations saisies.
- -->
 <!DOCTYPE html>
 <html lang="fr" dir="ltr">
 <head>
